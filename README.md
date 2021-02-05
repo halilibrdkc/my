@@ -1,11 +1,10 @@
 ### Hi there,[HellorD][GeikThemes] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.geikthemes.com)
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/wvab1j5j98je9qefkjcvaj9ai)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="HellorD Spotify Playing" width="350" />](https://open.spotify.com/user/wvab1j5j98je9qefkjcvaj9ai)
 
 ### Connect with me:
 
@@ -35,21 +34,6 @@
 
 <br />
 <br />
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
-2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
