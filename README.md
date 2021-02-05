@@ -1,6 +1,6 @@
 ### Hi there,[HellorD][GeikThemes] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.geikthemes.com)
+[![Website](https://img.shields.io/website?label=geikthemes.com&style=for-the-badge&url=https%3A%2F%2Fgeikthemes.com)](https://www.geikthemes.com)
 
 ### Spotify Playing 🎧
 
