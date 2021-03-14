@@ -1,6 +1,6 @@
 ### Hi there,[HellorD][GeikThemes] 👋
 
-[![Website](https://img.shields.io/website?label=geikthemes.com&style=for-the-badge&url=https%3A%2F%2Fdiscordturk.com)](https://www.discordturk.com)
+[![Website](https://img.shields.io/website?label=discordturk.com&style=for-the-badge&url=https%3A%2F%2Fdiscordturk.com)](https://www.discordturk.com)
 
 ### Spotify Playing 🎧
 
